@@ -14,9 +14,9 @@
   
   <div align="center">
    <a href="https://github.com/evelynsantos">
-   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=evelynsantos&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
-   <img height="145em" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif">
-   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynsantos&layout=compact&langs_count=7&theme=write"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=evelynsantos&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynsantos&layout=compact&langs_count=7&theme=write"/>
  </div>
  <div align="center" style="display: inline_block"><br>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Evelyn">
