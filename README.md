@@ -5,7 +5,7 @@
 - 🎲 Curto a área de dados
 - 📊 Apaixonada pela área financeira
 - 🧾 Certificada ANCORD/B3 no PQO de operações
-- <div><a href="https://www.credly.com/badges/5ddb9e00-f799-4b9e-aa43-07c2f0e73e66" target="_blank"><img height="25" width="25" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"></a> [Certificada](https://www.credly.com/badges/5ddb9e00-f799-4b9e-aa43-07c2f0e73e66){:target="_blank" rel="noopener"} pela Microsoft: Azure Artificial Intelligence (AI) </div>
+- <a href="https://www.credly.com/badges/5ddb9e00-f799-4b9e-aa43-07c2f0e73e66" target="_blank"><img height="25" width="25" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"></a> Certificada pela Microsoft: Azure Artificial Intelligence (AI) </div>
 - 🧡 Excel é vida!
 - 🌏 Adoro viajar
 
