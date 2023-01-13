@@ -1,5 +1,10 @@
 ### Hello mundo! Sou Evelyn Dias Santos  \🤓/
 
+
+<table table border="0" cellspacing="0" rules="none">
+  <tr>
+    <td>
+     
 - 🎓 Pós-Graduada em Ciência de Dados - Business Intelligence, big data e analytics
 - 🌱 Me desenvolvendo em Node e React
 - 🎲 Curto a área de dados
@@ -9,20 +14,30 @@
 - <a href="https://www.credly.com/badges/5ddb9e00-f799-4b9e-aa43-07c2f0e73e66" target="_blank"><img height="25" width="25" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"></a> Certificada pela Microsoft: Azure Artificial Intelligence (AI) </div>
 - 🧡 Excel é vida!
 - 🌏 Adoro viajar
+ 
+ Evycode mode ON
+    </td>
+    <td>
+       <img height="300em" src=
+        "https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
+   </td>
+  </tr>
+</table>
+</body>
+</html>
 
-Evycode mode ON
+
 
  ##
     
  <div style="display:'flex', flexDirection:'row'" align="center">
    <a href="https://github.com/evelyneds">
    
-   <img height="150em" src=
-     "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evelyneds&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
-   <img height="150" src=
-        "https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
-   <img height="150em" src=
-   "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelyneds&layout=compact&langs_count=7&theme=write"/>
+   <img height="200em" src=
+     "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evelyneds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="200" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
+   <img height="200em" src=
+   "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelyneds&layout=compact&langs_count=7&theme=dark"/>
    
  </div>
  <div align="center" style="display: inline_block"><br>
