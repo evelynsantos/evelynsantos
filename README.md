@@ -13,15 +13,18 @@
 Evycode mode ON
 
  ##
- 
   
   <div align="center">
    <a href="https://github.com/evelyneds">
-   <img height="200em" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif">
    
-   <!--<img height="130em" src="https://github-readme-stats.vercel.app/api?username=evelyneds&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyneds&layout=compact&langs_count=7&theme=write"/>
-    -->
+   
+   <img height="180em" src=
+     "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evelyneds&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
+   <img height="180em" src=
+        "https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
+   <img height="180em" src=
+   "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelyneds&layout=compact&langs_count=7&theme=write"/>
+   
  </div>
  <div align="center" style="display: inline_block"><br>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Evelyn">
