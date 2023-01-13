@@ -1,9 +1,5 @@
 ### Hello mundo! Sou Evelyn Dias Santos  \🤓/
 
-
-<table table border="0" cellspacing="0" rules="none">
-  <tr>
-    <td>
      
 - 🎓 Pós-Graduada em Ciência de Dados - Business Intelligence, big data e analytics
 - 🌱 Me desenvolvendo em Node e React
@@ -16,27 +12,17 @@
 - 🌏 Adoro viajar
  
  Evycode mode ON
-    </td>
-    <td>
-       <img height="300em" src=
-        "https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
-   </td>
-  </tr>
-</table>
-</body>
-</html>
-
-
+   
 
  ##
     
  <div style="display:'flex', flexDirection:'row'" align="center">
    <a href="https://github.com/evelyneds">
    
-   <img height="200em" src=
+   <img height="180" src=
      "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evelyneds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="200" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
-   <img height="200em" src=
+        <img height="180" src="https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
+   <img height="180" src=
    "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelyneds&layout=compact&langs_count=7&theme=dark"/>
    
  </div>
