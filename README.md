@@ -13,23 +13,21 @@
 Evycode mode ON
 
  ##
-  
-  <div align="center">
+    
+ <div style="display:'flex', flexDirection:'row'" align="center">
    <a href="https://github.com/evelyneds">
    
-   
-   <img height="180em" src=
+   <img height="150em" src=
      "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evelyneds&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
-   <img height="180em" src=
+   <img height="150" src=
         "https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif"/>
-   <img height="180em" src=
+   <img height="150em" src=
    "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelyneds&layout=compact&langs_count=7&theme=write"/>
    
  </div>
  <div align="center" style="display: inline_block"><br>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Evelyn">
+  <img title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img title="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img title="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
