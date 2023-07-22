@@ -2,6 +2,7 @@
 
      
 - 🎓 Pós-Graduada em Ciência de Dados - Business Intelligence, big data e analytics
+- 🎓 Graduada em Banco de Dados
 - 🌱 Me desenvolvendo em Node e React
 - 🎲 Curto a área de dados
 - 📊 Apaixonada pela área financeira
